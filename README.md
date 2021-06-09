@@ -5,7 +5,7 @@ CHART-DeMatch is a framework of chart panel analysis(CPA). The CPA task contains
 
 **Legend Analysis:** In a chart, each legend mark is associated with a dataseries name. For the understanding of chart with multiple data series, it is criticalto analyze the legend first. The legend analysis system is responsible for finding all the legend marks area, and link them to the associated label text.
 
-**Please see our paper at [[link]](https://)**. <div align=center><img src="images/pipeline.jpg" width="50%" ></div>
+**Please see our paper at [[link]](https://)**. <div align=center><img src="images/pipeline.jpg" width="90%" ></div>
 
 
 ## Train
