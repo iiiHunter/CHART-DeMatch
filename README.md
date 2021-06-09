@@ -78,7 +78,7 @@ If you find our method useful for your reserach, please cite
 @article{zhang2021dematch,
   title={DeMatch: Torwards Understanding the Panel of Chart Documents},
   author={Zhang, Hesuo and Ma, Weihong and Jin, Lianwen and Huang, Yichao and Ding, Kai and Wu, Yaqiang},
-  journal={Proceedings of International Conference of Document Analysis and Recognition},
+  journal={Proceedings of International Conference on Document Analysis and Recognition},
   year={2021}
 }
 ```
